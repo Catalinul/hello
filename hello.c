@@ -9,4 +9,4 @@ if (argc != 2)
 printf("Hello, %s!\n", argv[1]);
 return 0;
 }
-
+int main2(proba usa)
